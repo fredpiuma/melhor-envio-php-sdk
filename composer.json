@@ -1,0 +1,22 @@
+{
+    "name": "fulfillment/melhor-envio-sdk",
+    "description": "SDK standalone em PHP para a API do Melhor Envio",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MelhorEnvio\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

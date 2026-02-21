@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Unit\\DTOTest::test_calcular_frete_dto_validation":0.014,"Tests\\Unit\\DTOTest::test_calcular_frete_dto_to_array":0.002,"Tests\\Unit\\DTOTest::test_criar_envio_dto_validation":0.001}}
